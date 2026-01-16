@@ -1,6 +1,6 @@
 # Bishal Koirala - Portfolio 🚀
 
-![Bishal Koirala](./public/result_0.png)
+<img src="./public/result_0.png" alt="Bishal Koirala" height="400" />
 
 ## Software Engineer | Full Stack Developer | MERN Stack Developer
 
