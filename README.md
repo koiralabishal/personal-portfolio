@@ -1,16 +1,72 @@
-# React + Vite
+# Bishal Koirala - Portfolio 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Bishal Koirala](./public/result_0.png)
 
-Currently, two official plugins are available:
+## Software Engineer | Full Stack Developer | MERN Stack Developer
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Passionate Software Engineer skilled in building scalable web applications and solving real-world problems through clean, efficient code. Currently pursuing a Bachelor of Software Engineering at Gandaki College of Engineering and Science (GCES).
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 🛠️ Technical Proficiency
 
-## Expanding the ESLint configuration
+**Programming Languages**
+`Java` `C` `C++` `PHP` `HTML` `CSS` `JavaScript` `Python`
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+**Web Development & Frameworks**
+`MERN Stack` `React.js` `Node.js` `Express.js` `MongoDB`
+
+**Databases**
+`MySQL` `MongoDB`
+
+**DevOps & Tools**
+`Git` `GitHub` `Figma` `Linux` `Docker` `Postman` `CI/CD`
+
+---
+
+### 🚀 Featured Projects
+
+#### 🍃 [AgroMart (2025)](https://github.com/koiralabishal/AGrow-Mart)
+A full-stack agriculture-based web platform connecting farmers, suppliers, and buyers with real-time product listings.
+- **Tech Stack:** React, Node.js, Express, MongoDB
+- **Live Demo:** [a-grow-mart.vercel.app](https://a-grow-mart.vercel.app)
+
+#### ✈️ [Tours and Travel Website (2025)](https://github.com/koiralabishal/tour-and-travel)
+A visually engaging travel website showcasing popular destinations and tour packages with a modern, responsive user interface.
+- **Tech Stack:** React, CSS
+- **Live Demo:** [tour-travels-40820.web.app](https://tour-travels-40820.web.app)
+
+#### 📄 [MediDocX (2024)](https://github.com/koiralabishal/MinorProject-I-MediDocX-)
+A medical document management system designed to digitize healthcare records and streamline access.
+- **Tech Stack:** PHP, MySQL, JavaScript
+- **Live Demo:** [medidocx.free.nf](https://medidocx.free.nf)
+
+#### ❤️ [Cardiac Crusaders (2023)](https://drive.google.com/drive/folders/1w0wcjZpouxmEf6Me8Y8CtnM0nbcNk1EE?usp=sharing)
+Cardiac health monitoring concept pitched at Codefest Gandaki Provincial Ideathon (Nepal's 2nd largest hackathon).
+
+---
+
+### 📫 Contact Me
+
+- **Email:** [koiralabishal3@gmail.com](mailto:koiralabishal3@gmail.com)
+- **Phone:** [+977 9848260732](tel:+9779848260732)
+- **Location:** Birauta-17, Pokhara, Nepal
+- **LinkedIn:** [bishal-koirala](https://www.linkedin.com/in/bishal-koirala/)
+- **GitHub:** [koiralabishal](https://github.com/koiralabishal)
+
+---
+
+### ⚡ Getting Started Locally
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/koiralabishal/portfolio-react.git
+   ```
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
+3. **Run the development server**
+   ```bash
+   npm run dev
+   ```
